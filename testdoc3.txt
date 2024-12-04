@@ -1,1 +1,1 @@
-This doc is created by the developer 2 for git learning
+This document is modified by developer 1 for checking the change impact(red color row) in the git hub 
