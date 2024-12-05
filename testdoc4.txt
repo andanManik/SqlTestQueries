@@ -1,1 +1,3 @@
 test doc 4 created by the developer 2 for git learning
+
+Changes done in the master branch
